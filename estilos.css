@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+*{
+    margin: 0;
+    position: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+.logo{
+    margin-left: 30%;
+    margin-top: -16%
+}
+.redes{
+    margin-left: 90%;
+    margin-top: -19%;
+}
+#barrita .nav .nav-item{
+    margin-top: 2%;
+}
+.nav-link{
+    color: black;
+}
+.banner{
+    margin-left: 10%;
+    margin-top: 6%;
+}
+.card{
+    width: 45%;
+    margin-top: 4%;
+    margin-left: 4%;
+}
+h2{
+   margin-top: 5%;
+    margin-left: 44.5%;
+}
+.card-body{
+    margin-left: 50%;
+    width: 30%;
+
+}
+.plato1 .card-body{
+    margin-top: -24%;
+}
+.plato2 {
+    margin-top: 20%;
+}
+.plato2 .card-body{
+    margin-top: -24%;
+}
+.plato3{
+    margin-top: 15%;
+}
+.plato3 .card-body{
+    margin-top: -24%;
+}
+.plato4{
+    margin-top: 15%;
+}
+.plato4 .card-body{
+    margin-top: -24%;
+}
+.formulario{
+    margin-top: 10%;
+    width: 40%;
+}
+footer{
+    background-color: 		#8DB600;
+}
+.mapa{
+    margin-top: 15%;
+}
+.mapita{
+    margin-top: 5%;
+    margin-left: 7%;
+}
+.lugares{
+    margin-left: 62%;
+    margin-top: -26%;
+}
+.nav-item .nav-link:hover{
+    color: #b5ea43;
+
+}
+footer{
+    margin-top: 15%;
+    background-color: #CDE990;
+    width: 100%;
+    height: 90%;
+
+}
+
+.redesfooter .logo1{
+    width: 1.3%;
+    position: relative;
+    margin-top: 2%;
+    margin-left: 45%;
+    padding: 4px;
+}
+.redesfooter .logo2{
+    width: 1.3%;
+    position: relative;
+    margin-top: 2%;
+    padding: 4px;
+
+}
+.redesfooter .logo3{
+    width:1.3%;
+    position: relative;
+    margin-top: 2%;
+    padding: 4px;
+
+}
+.redesfooter .logo4{
+    width: 1.3%;
+    position: relative;
+    margin-top: 2%;
+    padding:4px;
+
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style: none;
+}
+.recetasaladas{
+    position: relative;
+    margin-top: 2%;
+    margin-left: 15%;
+}
+.recetasdulces{
+    margin-top: -18%;
+    margin-left: 60%;
+    position: relative;
+}
